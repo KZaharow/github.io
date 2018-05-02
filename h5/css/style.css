@@ -1,0 +1,36 @@
+body{
+	background-color: #F6F6F6;
+	font-family: 'Roboto', sans-serif;	
+	min-width: 1000px;
+}
+.wraper {
+	width: 80%;
+	margin: 30% auto;
+	background-color: white;
+}
+.logo{
+	float: left;
+	width: auto;
+	height: inherit;
+	overflow: hidden;
+}
+.data {
+	width: auto;
+	height: inherit;
+	padding: 1% 1%;
+}
+.header {
+	padding: inherit;
+	font-size: 46px;
+}
+.text {
+	padding: 1inherit;
+	font-size: 22px;
+}
+.price {
+	padding: inherit;
+	font-size: 34px;
+}
+.button {
+	padding: inherit;	
+}

@@ -1,0 +1,46 @@
+body{
+   background-color: #f5f5f5;
+   min-width: 800px;
+}
+
+.main{
+  width: 85%;
+  margin: 0px auto;
+  font-family: 'Roboto', sans-serif;
+}
+
+.header, .text, .nav{
+  height: auto;
+  padding: 2% 2%;
+}
+
+.header{
+  width: auto;
+  background-color: black;
+  color: white;
+}
+
+.text{
+  float: left;
+  width: 71%;
+  background-color: white;
+}
+
+.nav {
+  float: right;
+  width: 21%;
+  background-color: #F5F9F5;
+}
+
+a{
+  text-decoration: none;
+}
+
+.nav_pic{
+  position: fixed;
+  left: 0;
+  top: 50%;
+}
+
+
+
